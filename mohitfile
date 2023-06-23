@@ -1,0 +1,18 @@
+git config --global user.name username
+git config --global user.email useremail
+git clone https url 
+git add 
+git commit 
+git push 
+git pull 
+git cheakout
+git branch
+git branch -r
+git status
+git log
+git init
+git reset
+git diff --staged
+git diff --source
+git mv 
+git rm

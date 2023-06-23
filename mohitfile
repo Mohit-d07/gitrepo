@@ -12,7 +12,11 @@ git status
 git log
 git init
 git reset
-git diff --staged
+git diff --staged ( for check the status at  staged area )
 git diff --source
 git mv 
 git rm
+git show (commit id or file name)
+git branch (branch name)
+git diff (when we are at source area)
+
